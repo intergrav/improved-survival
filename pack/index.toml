@@ -134,11 +134,6 @@ hash = "68f179eccbf7250d68a56d9943455742285e78744664ae75c4d6186ee5d4a95b"
 metafile = true
 
 [[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "f9daa7f4a22030249d4ba643df59c7fc4e49b2cdaf6fc4adb9df70a8827d3f6e"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
 metafile = true
@@ -166,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "d7250cb266b2c755acca03a407890508e398159920fd5096ac061db0b4d83622"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
 metafile = true
 
 [[files]]
@@ -264,6 +264,11 @@ hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
@@ -346,11 +351,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "e61c296aa297779459086a93d9cb8eb2528541b78cdee90c8cb1ff2ee83fa06a"
-metafile = true
-
-[[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "9b025e1052343a3705aa9d3ab0a30943fcd7992aa92327306d7e5101daca9e05"
 metafile = true
 
 [[files]]
