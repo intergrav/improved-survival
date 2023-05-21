@@ -164,6 +164,11 @@ hash = "d7250cb266b2c755acca03a407890508e398159920fd5096ac061db0b4d83622"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
 metafile = true
