@@ -1,0 +1,13 @@
+name = "Enchantments-Plus"
+filename = "enchantments-plus-1.1.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kfr0BQO9/versions/pYH8a5fP/enchantments-plus-1.1.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "af2940a0262b946e134c3373da2c24a32b7c9264"
+
+[update]
+[update.modrinth]
+mod-id = "Kfr0BQO9"
+version = "pYH8a5fP"

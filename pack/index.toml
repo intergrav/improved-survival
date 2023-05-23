@@ -154,6 +154,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/condensed-creative.pw.toml"
+hash = "bf4e2acb2c4ab4a82dc301650ae92960ca4234967f51013aaf7a55dcece581a9"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
@@ -164,6 +169,11 @@ hash = "d7250cb266b2c755acca03a407890508e398159920fd5096ac061db0b4d83622"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
 metafile = true
@@ -171,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "291096a5ce6573cae860d94ae930ca6febfbf750bd1f83c08fcf02909c48fe44"
 metafile = true
 
 [[files]]
@@ -329,6 +344,11 @@ hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -431,4 +451,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
 metafile = true

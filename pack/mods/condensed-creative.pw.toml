@@ -1,0 +1,13 @@
+name = "Condensed Creative"
+filename = "condensed_creative-2.0.2+1.19-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zw7fMbBg/versions/HZkEj8Yb/condensed_creative-2.0.2%2B1.19-fabric.jar"
+hash-format = "sha1"
+hash = "a026079d7fa8552b32e8bf828ce3a21d7d1313fd"
+
+[update]
+[update.modrinth]
+mod-id = "Zw7fMbBg"
+version = "HZkEj8Yb"
